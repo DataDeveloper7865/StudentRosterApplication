@@ -1,2 +1,2 @@
 # StudentRosterApplicationC-
-A Student Roster Application written in C++
+An Inventory Application written in C++
