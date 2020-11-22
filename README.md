@@ -3,7 +3,7 @@ An Inventory Application written in C++. This is a command line interface progra
 
 This was written for a class for Western Governor's University. This was one of the first programs
 that I had written for university. The following text was given as the requirements to the program.
-And, of course, the program
+And, of course, the program is contained within this repo.
 
 ------------------------------------------------INTRODUCTION-----------------------------------------------------------
 
